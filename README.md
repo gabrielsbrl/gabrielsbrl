@@ -1,6 +1,6 @@
-### Hi there! 😁
+### Heey 😁
 
-Hi, i'm Gabriel Sobral from São Paulo, Brazil (🇧🇷). I've been working Developer since 2015 and i'm currently working at [IBM](https://www.ibm.com/br-pt) as Application developer. I really like to work with Javascript based technologies and IoT.
+Hi, i'm Gabriel Sobral from São Paulo, Brazil (🇧🇷). I've been working as Developer since 2015, now i'm currently working at [IBM](https://www.ibm.com/br-pt) as Application developer. I really like to work with Javascript based technologies, such as Angular, NodeJS, React and React Native and IoT with arduino and nodeMCU.
 
 In my free time I like to play (and watch) video games (🎮), read any kind of book (📖), travel (✈) or learn a new language (👨‍🎓)
 
