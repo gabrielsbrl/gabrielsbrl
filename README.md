@@ -11,7 +11,7 @@ I'm Gabriel Sobral from São Paulo, Brazil (🇧🇷). I've been working as Deve
 
 <br>
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
 <img style="height: auto; width: 48%; display: inline-block; margin-right: 1em;" src="https://github-readme-stats.vercel.app/api?username=gabrielsbrl&count_private=true&show_icons=true&theme=dark" />
 <img style="height: auto; width: 40%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbrl&theme=dark&langs_count=10&layout=compact" />
-</div>
+</div> -->
